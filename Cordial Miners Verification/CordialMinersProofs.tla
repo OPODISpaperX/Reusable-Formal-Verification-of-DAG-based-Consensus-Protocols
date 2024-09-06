@@ -1,4 +1,4 @@
------------------------ MODULE CordialMinersVerification -----------------------
+----------------------- MODULE CordialMinersProofs -----------------------
 
 EXTENDS CordialMinersSpecification,
         FiniteSets,
