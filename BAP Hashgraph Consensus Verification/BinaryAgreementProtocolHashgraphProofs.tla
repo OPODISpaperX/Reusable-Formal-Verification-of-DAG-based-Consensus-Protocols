@@ -1,4 +1,4 @@
--------------------------- MODULE BinaryAgreementProtocolHashgraphVerification --------------------------
+-------------------------- MODULE BinaryAgreementProtocolHashgraphProofs --------------------------
 
 EXTENDS OPODISHashgraphSpecification,
         FiniteSets,
