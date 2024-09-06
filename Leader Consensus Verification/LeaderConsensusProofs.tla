@@ -1,4 +1,4 @@
-------------------- MODULE LeaderConsensusVerification -------------------
+------------------- MODULE LeaderConsensusProofs -------------------
 
 EXTENDS FiniteSets, 
         Integers, 
