@@ -1,4 +1,4 @@
---------------- MODULE ReliableBcastCommunicationVerification ---------------
+--------------- MODULE ReliableBcastCommunicationProofs ---------------
 EXTENDS ReliableBcastCommunicationSpecification,
         FiniteSets,
         Integers,
