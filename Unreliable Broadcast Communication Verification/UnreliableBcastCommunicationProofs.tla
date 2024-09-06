@@ -1,4 +1,4 @@
-------------------- MODULE UnreliableBcastCommunicationVerification -------------------
+------------------- MODULE UnreliableBcastCommunicationProofs -------------------
 
 EXTENDS UnreliableBcastCommunicationSpecification,
         FiniteSets,
