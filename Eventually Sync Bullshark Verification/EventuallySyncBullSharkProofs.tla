@@ -1,4 +1,4 @@
----------------------- MODULE FMBullsharkVerification ----------------------
+---------------------- MODULE FMBullsharkProofs ----------------------
 
 EXTENDS FMBullsharkSpecifcation,
         FiniteSets,
