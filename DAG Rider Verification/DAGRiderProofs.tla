@@ -1,4 +1,4 @@
------------------------- MODULE DAGRiderVerification ------------------------
+------------------------ MODULE DAGRiderProofs ------------------------
 
 EXTENDS DAGRiderSpecification,
         FiniteSets,
